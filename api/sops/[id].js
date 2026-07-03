@@ -32,6 +32,7 @@ const SOP_FILES = {
   '26': { title: 'Page Speed / Core Web Vitals', source: 'deliverables/technical/26-page-speed-core-web-vitals/README.md' },
   '27': { title: 'Mobile Optimization', source: 'deliverables/technical/27-mobile-optimization/README.md' },
   '28': { title: 'Duplicate Content / Canonicals', source: 'deliverables/technical/28-duplicate-content-canonicals/README.md' },
+  '39': { title: 'Post-Launch SEO Optimization', source: 'deliverables/technical/39-post-launch-seo-optimization/README.md' },
   '29': { title: 'Profile Build & Completion', source: 'deliverables/gbp/29-gbp-profile-build/README.md' },
   '30': { title: 'GBP Categories', source: 'deliverables/gbp/30-gbp-categories/README.md' },
   '31': { title: 'Weekly GBP Posts', source: 'deliverables/gbp/31-gbp-weekly-posts/README.md' },

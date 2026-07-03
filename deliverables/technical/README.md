@@ -1,6 +1,6 @@
 # Technical SEO
 
-This folder contains automation builds for all **9 Technical SEO** deliverables.
+This folder contains automation builds for all **10 Technical SEO** deliverables.
 
 | # | Deliverable | Automation Score | Status |
 |---|------------|-----------------|--------|
@@ -13,3 +13,4 @@ This folder contains automation builds for all **9 Technical SEO** deliverables.
 | 26 | [Page Speed / Core Web Vitals](./26-page-speed-core-web-vitals/) | 8/10 | ✅ Documented |
 | 27 | [Mobile Optimization](./27-mobile-optimization/) | 7/10 | ✅ Documented |
 | 28 | [Duplicate Content / Canonicals](./28-duplicate-content-canonicals/) | 6/10 | ✅ Documented |
+| 39 | [Post-Launch SEO Optimization](./39-post-launch-seo-optimization/) | 8/10 | ✅ Documented |
